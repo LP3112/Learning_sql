@@ -1,2 +1,3 @@
 select * from employer where city = "tokyo"
 update tag where city = "tokyo"
+select * from employer
